@@ -1,5 +1,4 @@
-Web: HTML, CSS, SCSS, JS
-Python, AI
-DevOps: Linux, Bash, Git, Docker
-Kubernetes, Helm, Terraform, Ansible
-Jenkins, Azure, GitHub Actions, CI/CD
+- **Web Development:** HTML, CSS, SCSS, JavaScript
+- **Python & AI:** Python, Artificial Intelligence
+- **DevOps:** Linux, Bash, Git, Docker, Kubernetes, Helm, Terraform, Ansible
+- **CI/CD & Cloud:** Jenkins, GitHub Actions, Azure
