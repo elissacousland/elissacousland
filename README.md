@@ -2,4 +2,4 @@
 - **Python & AI:** Python, Artificial Intelligence, AI Integration into Applications
 - **Networking:** TCP/IP, HTTP/HTTPS, Azure VNet, NSG, Ingress, NetworkPolicy
 - **DevOps:** Linux, Bash, Git, Docker, Kubernetes, Helm, Terraform, Ansible
-- - **CI/CD & Cloud:** Jenkins, GitHub Actions, Azure
+- **CI/CD & Cloud:** Jenkins, GitHub Actions, Azure
