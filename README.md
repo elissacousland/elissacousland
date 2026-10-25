@@ -1,4 +1,4 @@
 - **Web Development:** HTML, CSS, SCSS, JavaScript
-- **Python & AI:** Python, Artificial Intelligence
+- **Python & AI:** Python, Artificial Intelligence, AI Integration into Applications
 - **DevOps:** Linux, Bash, Git, Docker, Kubernetes, Helm, Terraform, Ansible
 - **CI/CD & Cloud:** Jenkins, GitHub Actions, Azure
