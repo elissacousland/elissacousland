@@ -1,5 +1,5 @@
 - **Web Development:** HTML, CSS, SCSS, JavaScript
 - **Python & AI:** Python, Artificial Intelligence, AI Integration into Applications
-- **DevOps:** Linux, Bash, Git, Docker, Kubernetes, Helm, Terraform, Ansible
 - **Networking:** TCP/IP, HTTP/HTTPS, Azure VNet, NSG, Ingress, NetworkPolicy
-- **CI/CD & Cloud:** Jenkins, GitHub Actions, Azure
+- **DevOps:** Linux, Bash, Git, Docker, Kubernetes, Helm, Terraform, Ansible
+- - **CI/CD & Cloud:** Jenkins, GitHub Actions, Azure
